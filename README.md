@@ -21,4 +21,4 @@ Ce projet est **à but purement éducatif**. L'automatisation (botting) peut all
 ## Utilisation
 1. Lancez le script :
    ```bash
-   python testeur.py
+   python tester.py
