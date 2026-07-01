@@ -1,3 +1,5 @@
+# Got Fuck the 01/07/2026 by the new maj that doesn't permit username changes on PC
+
 # Whatsapp-User-Tester
 
 Whatsapp-User-Tester est un outil d'automatisation conçu pour tester rapidement la disponibilité de pseudos (noms d'utilisateurs) sur WhatsApp. Ce projet utilise l'automatisation de l'interface utilisateur pour interagir avec l'application.
